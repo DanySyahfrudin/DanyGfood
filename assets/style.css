@@ -1,0 +1,56 @@
+.navbar-brand {
+  font-family: Viga;
+  font-size: 32px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+
+.nav-link {
+  text-transform: uppercase;
+  margin-right: 30px;
+}
+
+.nav-link:hover {
+  color: blue;
+}
+
+.button {
+  background-color: blue;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 30px;
+  padding: 10px 20px;
+}
+
+.button:hover {
+  background-color: white;
+  color: blue;
+}
+
+.jumbotron {
+  background-image: url(img/jumbotron.webp);
+  height: 600px;
+  background-position: buttom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .display-5 {
+  color: white;
+  margin-top: 150px;
+  margin-bottom: 30px;
+  font-weight: 200;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+}
+
+.jumbotron .display-5 span {
+  font-weight: 500;
+}
+
+.footer-brand {
+  font-family: Viga;
+  font-size: 24px;
+  color: black;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+  text-decoration: none;
+  margin-right: 10px;
+}
